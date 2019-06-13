@@ -1,3 +1,5 @@
-# Gerência de Configuração
+# Cliente 01
 
-Repositório destinado ao projeto da disciplina de gerência de configuração, maiores informações podem ser encontradas na wiki  do projeto.
+Repositório destinado ao projeto do cliente 01.
+
+É importante que todos os membros do projetos visitem a Wiki do projeto para maiores informações.
